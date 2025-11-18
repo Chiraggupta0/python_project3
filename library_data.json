@@ -1,0 +1,35 @@
+{
+    "books": [
+        {
+            "title": "tales",
+            "author": "hash",
+            "isbn": "",
+            "available": true,
+            "times_borrowed": 0
+        },
+        {
+            "title": "palets",
+            "author": "gaush",
+            "isbn": "234",
+            "available": true,
+            "times_borrowed": 1
+        }
+    ],
+    "members": [
+        {
+            "name": "chirag",
+            "member_id": "21",
+            "borrowed_books": []
+        },
+        {
+            "name": "anuj",
+            "member_id": "22",
+            "borrowed_books": []
+        },
+        {
+            "name": "punam",
+            "member_id": "23",
+            "borrowed_books": []
+        }
+    ]
+}
